@@ -1,0 +1,25 @@
+.caixa_formulario {
+    width: 400px;
+    height: 440px;
+}
+.formulario {
+    width: 240px;
+}
+.header ul #aqui {
+    font-weight: 1000;
+    color: #e3b062;
+}
+.formulario input{
+    margin-bottom: 8px;
+}
+
+.formulario button {
+
+
+  
+    border-radius: 5px;
+    font-size: 20px;
+    width: 130px;
+    
+}
+
